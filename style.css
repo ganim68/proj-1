@@ -4,3 +4,15 @@ h1{
     font-weight: bold;
     border-radius: 10px;
 }
+
+
+
+
+.student-contributor{
+    /*Your stuff here*/   
+    margin: 10px;      
+
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(241, 142, 142, 0.3);
+    }
